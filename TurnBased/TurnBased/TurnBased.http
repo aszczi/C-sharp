@@ -1,0 +1,6 @@
+@TurnBased_HostAddress = http://localhost:5094
+
+GET {{TurnBased_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
